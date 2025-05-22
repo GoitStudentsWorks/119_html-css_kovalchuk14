@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/anti-title-yoga-app/",
+    "build": "vite build --base=/119_html-css_kovalchuk14/",
     "preview": "vite preview"
   },
   "devDependencies": {
